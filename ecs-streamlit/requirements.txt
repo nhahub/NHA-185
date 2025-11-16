@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn  # or whatever ML library the model uses
+joblib
+requests
+plotly-express
+google-genai  # or google-cloud-aiplatform if using an older structure

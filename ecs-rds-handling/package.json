@@ -1,0 +1,24 @@
+{
+  "name": "data-importer-app",
+  "version": "1.0.0",
+  "description": "A Node.js application to import student churn data from OBS to a MySQL database.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "csv",
+    "obs",
+    "data-import"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "esdk-obs-nodejs": "^3.23.2",
+    "mysql2": "^3.6.5"
+  }
+}

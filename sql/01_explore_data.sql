@@ -1,0 +1,3 @@
+USE students_churn_db;
+SHOW DATABASES;
+SHOW TABLES;
