@@ -54,4 +54,4 @@ This system delivers measurable value by:
 --
 
 ## 5. Architecture Diagram
-!(Architecture.png)
+![](Architecture.png)
